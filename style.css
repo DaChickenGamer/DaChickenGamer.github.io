@@ -1,0 +1,11 @@
+html
+{
+    background-color: lightblue;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+.header
+{
+    color: rgb(99, 99, 99);
+    border-radius: 3px;
+}
